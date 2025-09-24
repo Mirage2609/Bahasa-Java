@@ -1,9 +1,16 @@
 public class HelloWorld {
-Public static void main (String[] args){
+	
+	public static void main(String[] args){
 
 
-	String name;
-	name = "Azka";
-	System output.println(name)
+	String biodata1 = "Nama : ";
+	String biodata2 = "Kelas : ";
+	String biodata3 = "NIM : ";
+
+	String nama = "Azka Putra Wirayudha";
+	String kelas = "D3RPLA-49-02";
+	String nim = "607062530011"	
+
 	}
+
 }
