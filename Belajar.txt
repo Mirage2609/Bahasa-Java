@@ -1,1 +1,6 @@
-Mari kita belajar bersama
+public class HelloWorld {
+Public static void main (String[] args){
+
+	System output.println()
+	}
+}
